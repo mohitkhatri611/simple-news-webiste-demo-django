@@ -1,5 +1,5 @@
 # simple-news-webiste-demo
-## The Mumble Diagram
+## 
 
 --> *Preview :*
 
