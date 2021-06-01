@@ -1,6 +1,11 @@
 # simple-news-webiste-demo
 ## 
-
+Note: I create this project while i started learning djagno just for demo purposes.
+By creating this i want to explore how to know how things works.
+Learnings from this project:
+1. How to fetch data using api and serialize is using json.
+2. how to create admin pannel, static files, urls, views, redirect.
+3. commands practice etc
 --> *Preview :*
 
 <div align="center">
